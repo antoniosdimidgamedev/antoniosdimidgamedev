@@ -27,7 +27,7 @@ Terminal UI / TUI design, game development (especially retro/constrained), LAN m
 ### 📫 Find me
 
 - GitHub: [antoniosdimidgamedev](https://github.com/antoniosdimidgamedev)
-- Email: antonios.dimi@gmail.com
+- Email: antonios.a.dimitriadis@gmail.com
 
 ---
 
